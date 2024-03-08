@@ -1,6 +1,6 @@
 # Delete Object by property value
 
-A script to remove an item from a List of objects by the value or a property
+A script to remove an item from a List of objects by the value of a property
 
 # Version 
 
