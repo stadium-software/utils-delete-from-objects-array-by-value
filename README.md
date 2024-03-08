@@ -32,6 +32,6 @@ return list;
 1. Drag the script called "RemoveObjectByProperty" into a script or event handler
 2. Enter values for the script input parameters
    1. List: A List of objects
-   2. Property: The name of the property to remove
-   3. Value: The value the property to locate
+   2. Property: The name of the property to locate
+   3. Value: The value the property to remove
 3. Result: The script returns a List without the supplied
