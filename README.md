@@ -31,8 +31,7 @@ return list;
 ## Usage
 1. Drag the script called "RemoveObjectByProperty" into a script or event handler
 2. Enter values for the script input parameters
-   1. List: A List of objects
-   Example:
+   1. List: A List of objects, for example:
    ```json
    [{"Name": "John","Instrument": "Guitar"},{"Name": "Paul","Instrument": "Bass"},{"Name": "Ringo","Instrument": "Drums"},{"Name": "George","Instrument": "Guitar"}]
    ```
